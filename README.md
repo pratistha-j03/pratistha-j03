@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pratistha Jaiswal</h1>
+<h3 align="center">Software Engineering • Full-Stack Developer • Backend-Focused</h3>
 
-<!--
-**pratistha-j03/pratistha-j03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Focused+Full+Stack+Developer;DSA+Practitioner;Building+Scalable+Systems;Debugging+Driven+Growth" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- Building **scalable web applications**
+- Practicing **Data Structures & Algorithms daily**
+- Learning **production-level backend design**
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js" /><br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,npm" /><br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rabbitmq" /><br>
+
+<!-- Databases & BaaS -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" /><br>
+
+<!-- DevOps & Deployment -->
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,render" /><br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
+
+<!-- Design -->
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🏫 Coders & Developers Club Platform
+
+- Designed **RBAC architecture** for admins, members, and students with protected routes
+- Built **schema-driven dynamic forms** with reusable validation logic
+- Developed **modular REST APIs** with centralized error handling & middleware
+- Optimized **API–UI data flow** for predictable state updates
+
+🔗 **Live:** [Live Link](https://cdc.mmmut.org)  
+
+---
+
+### 💰 FinTrack - Finance Tracker
+
+- Implemented **JWT-based authentication & route protection**
+- Built **filterable & aggregated dashboard APIs** for analytics
+- Structured backend using **controller–service pattern**
+- Managed **global state for real-time UI consistency**
+
+🔗 **Live:** [Live Link](https://fin-track-two-beta.vercel.app/) 
+
+---
+
+### 🤝 AutoMeet – Automated Meeting Summarizer & Action Items Provider
+
+Backend-driven platform that transforms meeting recordings into concise summaries and trackable action items.
+
+- Designed **scalable file upload & processing pipeline**
+- Implemented **speech-to-text integration** for transcript generation
+- Generated **context-aware summaries using LLM APIs**
+- Extracted **decision points, tasks, and owners automatically**
+
+🔗 **Live:** [Live Link](https://automeet-client.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratistha-j03&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratistha-j03&theme=tokyonight" />
+</p>
+
+---
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratistha-jaiswal-512a53326/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/prestige191/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://www.codechef.com/users/prestige191">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="48" width="48"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratistha-j03&color=blueviolet&style=flat" />
+</p>
