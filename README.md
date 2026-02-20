@@ -33,9 +33,6 @@
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
 
-<!-- Design -->
-<img src="https://skillicons.dev/icons?i=figma" />
-
 </p>
 
 ---
