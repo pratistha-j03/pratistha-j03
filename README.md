@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratistha Jaiswal</h1>
-<h3 align="center">Software Engineering • Full-Stack Developer • Backend-Focused</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Focused+Full+Stack+Developer;DSA+Practitioner;Building+Scalable+Systems;Debugging+Driven+Growth" />
-</p>
+<h3 align="center">Sophomore at MMMUT • Full-Stack Developer • Competitive Programmer</h3>
 
 ---
 
