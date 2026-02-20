@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pratistha Jaiswal</h1>
 <h3 align="center">Sophomore at MMMUT • Full-Stack Developer • Competitive Programmer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratistha-j03&color=blueviolet&style=flat" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -98,6 +102,4 @@ Backend-driven platform that transforms meeting recordings into concise summarie
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratistha-j03&color=blueviolet&style=flat" />
-</p>
+
