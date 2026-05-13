@@ -92,8 +92,8 @@ Backend-driven platform that transforms meeting recordings into concise summarie
   <a href="https://www.linkedin.com/in/pratistha-jaiswal-512a53326/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/prestige191/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+  <a href="https://leetcode.com/u/wildflower191/">
+    <img src="[https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode.svg]" />
   </a>
   <a href="https://www.codechef.com/users/prestige191">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="48" width="48"/>
