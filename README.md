@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratistha Jaiswal</h1>
-<h3 align="center">Sophomore at MMMUT • Full-Stack Developer • Competitive Programmer</h3>
+<h3 align="center">Pre-final year at MMMUT • Full-Stack Developer • Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratistha-j03&color=blueviolet&style=flat" />
@@ -9,9 +9,10 @@
 
 ## 🧠 About Me
 
-- Building **scalable web applications**
-- Practicing **Data Structures & Algorithms daily**
-- Learning **production-level backend design**
+- **Dev Head** at **Coders & Developers Club (CDC) MMMUT**
+- Building **high-performance, scalable full-stack applications**
+- Solved **1000+ Data Structures & Algorithms problems** across LeetCode, CodeChef, and Codeforces
+- Focused on **system performance, REST API design and database optimization**
 
 ---
 
@@ -20,22 +21,22 @@
 <p align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" /><br>
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,npm" /><br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,npm" /><br>
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rabbitmq" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" /><br>
 
-<!-- Databases & BaaS -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" /><br>
+<!-- Databases & Caching -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /><br>
 
 <!-- DevOps & Deployment -->
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,render" /><br>
+<img src="https://skillicons.dev/icons?i=docker,vercel,render" /><br>
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
+<!-- Tools & Design -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" /><br>
 
 </p>
 
@@ -43,38 +44,34 @@
 
 ## 🚀 Projects
 
-### 🏫 Coders & Developers Club Platform
+### 🏫 Coders & Developers Club Website
 
-- Designed **RBAC architecture** for admins, members, and students with protected routes
-- Built **schema-driven dynamic forms** with reusable validation logic
-- Developed **modular REST APIs** with centralized error handling & middleware
-- Optimized **API–UI data flow** for predictable state updates
+- Translated high-fidelity **Figma design wireframes** into a responsive web platform supporting **800+ active users**.
+- Architected and integrated **Firebase Auth / Google OAuth** workflows with **100% protected routes**.
+- Engineered **10+ dynamic, reusable React components** using functional hooks for high code maintainability across modules.
+- Integrated frontend views with a **caching layer** to serve dynamic scoreboard updates smoothly, managing **200+ multi-user team registrations**.
 
-🔗 **Live:** [Live Link](https://cdc.mmmut.org)  
-
----
-
-### 💰 FinTrack - Finance Tracker
-
-- Implemented **JWT-based authentication & route protection**
-- Built **filterable & aggregated dashboard APIs** for analytics
-- Structured backend using **controller–service pattern**
-- Managed **global state for real-time UI consistency**
-
-🔗 **Live:** [Live Link](https://fin-track-two-beta.vercel.app/) 
+🔗 **Live:** [cdc.mmmut.org](https://cdc.mmmut.org)  
 
 ---
 
-### 🤝 AutoMeet – Automated Meeting Summarizer & Action Items Provider
+### 💰 FinTrack – Budget & Expense Management System
 
-Backend-driven platform that transforms meeting recordings into concise summaries and trackable action items.
+- Cut dashboard response latency by **80%** (1000ms down to 200ms) by migrating complex calculations server-side via **MongoDB Aggregation Pipelines**.
+- Architected full-stack workflows using **React and Express.js**, integrating **15+ secure REST APIs** for dynamic budget tracking and user authentication.
+- Developed a privacy-preserving **Community Spending Comparison engine** to compute **anonymous global** benchmarks against individual user data in a single database call.
 
-- Designed **scalable file upload & processing pipeline**
-- Implemented **speech-to-text integration** for transcript generation
-- Generated **context-aware summaries using LLM APIs**
-- Extracted **decision points, tasks, and owners automatically**
+🔗 **Live:** [fin-track-two-beta.vercel.app](https://fin-track-two-beta.vercel.app/) 
 
-🔗 **Live:** [Live Link](https://automeet-client.vercel.app/)
+---
+
+### 🎙️ AutoMeet – AI Meeting Analysis System
+
+- Built an asynchronous full-stack pipeline for **stream-based browser audio ingestion** and meeting file processing.
+- Integrated the **Gemini API** within modular backend **REST APIs** for structural summary generation and deterministic **action item extraction**.
+- Designed MongoDB data models using isolated indices to provide secure, multi-tenant storage loops for raw text feeds and generated insights.
+
+🔗 **Live:** [automeet-client.vercel.app](https://automeet-client.vercel.app/)
 
 ---
 
@@ -86,20 +83,19 @@ Backend-driven platform that transforms meeting recordings into concise summarie
 </p>
 
 ---
-## Connect with me
+
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratistha-jaiswal-512a53326/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://leetcode.com/u/wildflower191/">
-    <img src="[https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode.svg]" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/prestige191">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="48" width="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="40" width="40" alt="CodeChef" />
   </a>
 </p>
 
 ---
-
-
